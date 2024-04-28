@@ -13,4 +13,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=raw937)](https://git.io/streak-stats)
 
-[![RAW Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=raw937)](https://github.com/raw937/github-readme-stats)
+[![RAW937 GitHub stats](https://github-readme-stats.vercel.app/api?username=raw937)](https://github.com/raw937/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raw937)](https://github.com/raw937/github-readme-stats)
