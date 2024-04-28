@@ -8,4 +8,9 @@
 - 🥒 Pickles are amazing. I am Pickle Rick - truly the show is about me. 
 - 💬 Ask me about viruses, phages, microbes, sequencing, proteomics, metabolomics, data visualizations, statistics, synthetic & molecular Biology, computational biology, bash, sed/grep/awk, python
 - 📫 How to reach me: [raw937](mailto:raw937@gmail.com) 
-- ⚡ Fun fact: There are more viruses on Earth then stars in the observable universe. More viruses in your mouth then stars in the milky way 🌌. 
+- ⚡ Fun fact: There are more viruses on Earth then stars in the observable universe. More viruses in your mouth then stars in the milky way 🌌.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=raw937)](https://git.io/streak-stats)
+
+[![RAW Lab GitHub stats](https://github-readme-stats.vercel.app/api?username=raw-lab)](https://github.com/raw937/github-readme-stats)
