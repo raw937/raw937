@@ -1,9 +1,6 @@
 ### Hi there 👋 
 ## I am Richard Allen White III (Rick)
 
-
-**raw937/raw937** is a ✨ _special_ ✨ repository because its `README.md` 
-
 - 🔭 I’m currently working on microbialites for NASA, nitrogenase for USDA, viral-like particles for industry, and Bats for NIH. 
 - 🌱 I’m currently learning rust. I ❤️ rust so much. But, I am no expert yet. 
 - 👯 I’m looking to collaborate on anything related to viruses or rust 
